@@ -1,5 +1,6 @@
 # Myocardial_infraction_prediction 
-Take this quiz, figure out if you are prone to stroke or not!
+A machine learning-based project for predicting the risk of myocardial infarction (heart attack) using patient health data. This project aims to assist in early detection and preventative measures by analyzing medical indicators.
+
 ***
 # Prediction model
    - Logistic regression
