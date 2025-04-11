@@ -3,7 +3,7 @@ A machine learning-based project for predicting the risk of myocardial infarctio
 
 ***
 # Prediction model
-   - Logistic regression
+   - Random forest Algorithm
 ***
 # Webpage Preview 
 
