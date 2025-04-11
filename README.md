@@ -12,9 +12,21 @@ A machine learning-based project for predicting the risk of myocardial infarctio
 
 //bash
 (python main.py)
+
 3.Follow the prompts or view the results in the output/log file or UI (if available).
 
 Sample usage in notebook or command line will be added here.
+***
+# ✨ Features
+ - Data preprocessing and feature engineering
+
+ - Model training with multiple classifiers (e.g., Logistic Regression, Random Forest)
+
+ - Evaluation metrics (Accuracy, Precision, Recall, AUC-ROC)
+
+ - Option to save and load models
+
+ - Visualizations of results
 ***
 # Webpage Preview 
 
