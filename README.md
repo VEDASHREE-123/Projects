@@ -20,7 +20,7 @@ Sample usage in notebook or command line will be added here.
 # ✨ Features
  - Data preprocessing and feature engineering
 
- - Model training with multiple classifiers (e.g., Logistic Regression, Random Forest)
+ - Model training with multiple classifiers (e.g., Random Forest, Logistic Regression, SVM , Decision tree)
 
  - Evaluation metrics (Accuracy, Precision, Recall, AUC-ROC)
 
