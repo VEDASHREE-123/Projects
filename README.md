@@ -46,11 +46,17 @@ Sample usage in notebook or command line will be added here.
 
 <img width="960" alt="bmi page - 2" src="https://user-images.githubusercontent.com/96369223/207112567-b130035f-87c6-4970-a437-cb0b0812fe5a.PNG">
 
-## Councel Page
+## 🙏 Acknowledgements
+ - Scikit-learn
 
-<img width="952" alt="counselpage1" src="https://user-images.githubusercontent.com/96369223/207112723-1f96033f-3fcd-458b-960c-dc42ff913489.PNG">
+ - Pandas
 
-<img width="960" alt="counselpage2" src="https://user-images.githubusercontent.com/96369223/207112755-25ed7342-0a2f-409f-aa35-f186dd74c390.PNG">
+ - Matplotlib
+
+ - Any medical datasets used (please cite your sources)
+
+ - Inspiration from [Kaggle notebooks] or research papers
+
 
 
 
