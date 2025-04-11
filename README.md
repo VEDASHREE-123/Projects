@@ -11,7 +11,7 @@ A machine learning-based project for predicting the risk of myocardial infarctio
 2.Run the main script:
 
 //bash
-(python main.py)
+(python app.py)
 
 3.Follow the prompts or view the results in the output/log file or UI (if available).
 
