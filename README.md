@@ -6,15 +6,13 @@ A machine learning-based project for predicting the risk of myocardial infarctio
    - Random forest Algorithm
 ***
 # 🚀 Usage
-Prepare the dataset (ensure the CSV or data file is in the correct folder).
+1.Prepare the dataset (ensure the CSV or data file is in the correct folder).
 
-Run the main script:
+2.Run the main script:
 
-bash
-Copy
-Edit
-python main.py
-Follow the prompts or view the results in the output/log file or UI (if available).
+//bash
+(python main.py)
+3.Follow the prompts or view the results in the output/log file or UI (if available).
 
 Sample usage in notebook or command line will be added here.
 ***
